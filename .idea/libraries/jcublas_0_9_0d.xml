@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="jcublas-0.9.0d">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/JCuda-All-0.9.0d-bin-x86_64/jcublas-0.9.0d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/JCuda-All-0.9.0d-bin-x86_64/jcublas-natives-0.9.0d-linux-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/JCuda-All-0.9.0d-bin-x86_64/jcublas-natives-0.9.0d-windows-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/JCuda-All-0.9.0d-bin-x86_64/jcuda-0.9.0d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/JCuda-All-0.9.0d-bin-x86_64/jcuda-natives-0.9.0d-linux-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/JCuda-All-0.9.0d-bin-x86_64/jcuda-natives-0.9.0d-windows-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/JCuda-All-0.9.0d-bin-x86_64/jcudnn-0.9.0d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/JCuda-All-0.9.0d-bin-x86_64/jcudnn-natives-0.9.0d-linux-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/JCuda-All-0.9.0d-bin-x86_64/jcudnn-natives-0.9.0d-windows-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/JCuda-All-0.9.0d-bin-x86_64/jcufft-0.9.0d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/JCuda-All-0.9.0d-bin-x86_64/jcufft-natives-0.9.0d-linux-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/JCuda-All-0.9.0d-bin-x86_64/jcufft-natives-0.9.0d-windows-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/JCuda-All-0.9.0d-bin-x86_64/jcurand-0.9.0d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/JCuda-All-0.9.0d-bin-x86_64/jcurand-natives-0.9.0d-linux-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/JCuda-All-0.9.0d-bin-x86_64/jcurand-natives-0.9.0d-windows-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/JCuda-All-0.9.0d-bin-x86_64/jcusolver-0.9.0d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/JCuda-All-0.9.0d-bin-x86_64/jcusolver-natives-0.9.0d-linux-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/JCuda-All-0.9.0d-bin-x86_64/jcusolver-natives-0.9.0d-windows-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/JCuda-All-0.9.0d-bin-x86_64/jcusparse-0.9.0d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/JCuda-All-0.9.0d-bin-x86_64/jcusparse-natives-0.9.0d-linux-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/JCuda-All-0.9.0d-bin-x86_64/jcusparse-natives-0.9.0d-windows-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/JCuda-All-0.9.0d-bin-x86_64/jnvgraph-0.9.0d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/JCuda-All-0.9.0d-bin-x86_64/jnvgraph-natives-0.9.0d-linux-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/JCuda-All-0.9.0d-bin-x86_64/jnvgraph-natives-0.9.0d-windows-x86_64.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
